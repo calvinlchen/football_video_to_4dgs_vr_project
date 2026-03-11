@@ -1,0 +1,3 @@
+[submodule "external/ml-sharp"]
+	path = external/ml-sharp
+	url = https://github.com/apple/ml-sharp
