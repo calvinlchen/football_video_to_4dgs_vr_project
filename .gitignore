@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+.env/
+.DS_Store
+.vscode/
+*.exe
+*.mp4
+*.mov
+*.ply
+Library/
+Temp/
+Logs/
+obj/
+Build/
